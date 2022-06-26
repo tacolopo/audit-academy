@@ -1,0 +1,10 @@
+* * * * * <python3 path> <path to file> >> output.txt
+
+#For those experiencing issues with Cron and Python, you can subvert through bash
+* * * * * <path to bash script> >> output.txt
+
+#Example bash:
+#!/bin/sh
+CWD="$(pwd)"
+/usr/bin/python3 scrape.py
+
