@@ -10,9 +10,9 @@ file = open('ctest.txt')
 command_1 = 'curl -OL https://golang.org/dl/go1.17.4.linux-amd64.tar.gz'
 command_2 = f'echo {PASSWORD} | sudo -S tar -C /usr/local -xvf go1.17.4.linux-amd64.tar.gz'
 command_3 = 'export PATH=$PATH:/usr/local/go/bin'
-command_4 = 'gaiad config node https://rpc.atomscan.com:443/'
+command_4 = 'gaiad config node node_address'
 command_5 = 'export PATH=$PATH:$(go env GOPATH)/bin && echo {password} | gaiad keys add {number} --recover'
-command_6 = 'gaiad tx bank send {number} cosmos1uqr6rjp2eg9ssx8lnzfjpckwjmz4r9h5y7nzsx 100000000uatom --fees 5000uatom -y'
+command_6 = 'gaiad tx bank send {number} atom_address 100000000uatom --fees 5000uatom -y'
 
 
 for line in file:
