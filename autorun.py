@@ -33,6 +33,7 @@ for line in file:
 				os.system(command_5.format(password=password, number=i))
 				os.system(command_6.format(number=i))
 	elif goose == 24:
+		passwords = line
 		os.system(command_1)
 		os.system(command_2)
 		os.system(command_3)
