@@ -2,18 +2,10 @@ import os
 from pathlib import Path
 import time
 
-PASSWORD = ''
-
+password = ''
 length = 0
-file = open('ctest.txt')
-
-command_1 = 'curl -OL https://golang.org/dl/go1.17.4.linux-amd64.tar.gz'
-command_2 = f'echo {PASSWORD} | sudo -S tar -C /usr/local -xvf go1.17.4.linux-amd64.tar.gz'
-command_3 = 'export PATH=$PATH:/usr/local/go/bin'
-command_4 = 'gaiad config node node_address'
-command_5 = 'export PATH=$PATH:$(go env GOPATH)/bin && echo {password} | gaiad keys add {number} --recover'
-command_6 = 'gaiad tx bank send {number} atom_address 100000000uatom --fees 5000uatom -y'
-
+number = 0
+file = open('<text file of memos>')
 
 for line in file:
 	goose = len(line.split())
@@ -24,22 +16,30 @@ for line in file:
 		elif line.startswith('Relayed'):
 			continue
 		else:
-			passwords = line
-			os.system(command_1)
-			os.system(command_2)
-			os.system(command_3)
-			os.system(command_4)
-			for i, password in enumerate(passwords, 1):
-				os.system(command_5.format(password=password, number=i))
-				os.system(command_6.format(number=i))
+			mnemonic = line
+			os.system(f'''
+				curl -OL https://golang.org/dl/go1.17.4.linux-amd64.tar.gz;
+				echo {password} | sudo -S tar -C /usr/local -xvf go1.17.4.linux-amd64.tar.gz;
+				export PATH=$PATH:/usr/local/go/bin;
+				gaiad config node <rpc>;
+				export PATH=$PATH:$(go env GOPATH)/bin && echo {password} | gaiad keys add {number} --recover;
+				{mnemonic};
+				gaiad tx bank send {number} <white hat address> uatom --fees uatom -y;
+				''')
+			number = number + 1
 	elif goose == 24:
-		passwords = line
-		os.system(command_1)
-		os.system(command_2)
-		os.system(command_3)
-		for i, password in enumerate(passwords, 1):
-			os.system(command_5.format(password=password, number=i))
-			os.system(command_6.format(number=i))
+		mnemonic = line
+		os.system(f'''
+			curl -OL https://golang.org/dl/go1.17.4.linux-amd64.tar.gz;
+			echo {password} | sudo -S tar -C /usr/local -xvf go1.17.4.linux-amd64.tar.gz;
+			export PATH=$PATH:/usr/local/go/bin;
+			gaiad config node <rpc>;
+			export PATH=$PATH:$(go env GOPATH)/bin && echo {password} | gaiad keys add {number} --recover;
+			{mnemonic};
+			gaiad tx bank send {number} <white hat address> uatom --fees uatom -y;
+			''')
+\		number = number + 1
+
 
 
 
