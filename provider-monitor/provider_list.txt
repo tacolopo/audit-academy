@@ -1,0 +1,1216 @@
+pagination:
+  next_key: FEmhlPAOAj8TJ99rM9+iIwkqRxUc
+  total: "0"
+providers:
+- attributes:
+  - key: host
+    value: Testcoders Test 14
+  host_uri: https://provider-test-14.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qzkvrygsazvwyn7jm0r3efs26qkxde635cgvls
+- attributes:
+  - key: host
+    value: trucloud
+  host_uri: https://$PROVIDER_AKASH_DOMAIN:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qz6cxspqvf5wnyd2vmms6gd7hcewjvrx4zepj7
+- attributes:
+  - key: organization
+    value: computor
+  - key: arch
+    value: amd64
+  host_uri: https://erbs.dev:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qtzf0e444868g2w0n48f80mtgjvm5sk7wj7vjd
+- attributes:
+  - key: organization
+    value: chainzeroprovider
+  - key: host
+    value: akashtesting
+  host_uri: https://provider.akashtesting.xyz:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qt5jjuhwffddjpk2vn7696s6y6c0lwfv2ggetz
+- attributes:
+  - key: host
+    value: Praetor app VP3
+  host_uri: https://vp3.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qwzqe6aysu2eps2qxdzz60c96gg8jeyjuj5ke6
+- attributes:
+  - key: organization
+    value: VP 11 PRAETOR APP
+  - key: cpu
+    value: AMD
+  - key: arch
+    value: amd64
+  - key: region
+    value: ca-central
+  host_uri: https://vp10.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1q00m6pm5y58mzdhxavra26j8g9l904dz29g98e
+- attributes:
+  - key: region
+    value: singapore
+  - key: host
+    value: venus
+  - key: organization
+    value: venus
+  - key: tier
+    value: community
+  host_uri: https://akash-provider.testrangetraffic.site:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1q0e5jg8e6puvl9hfmddt4f25l5e5rm9tesjve9
+- attributes:
+  - key: host
+    value: Testcoders Test 17
+  host_uri: https://provider-test-17.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qsl5a9hcxsq9lvur532k8k8nqdrsgd4uvpezx2
+- attributes:
+  - key: organization
+    value: B13 Praetor App
+  - key: arch
+    value: amd64
+  host_uri: https://b13.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1q5q2wr5e8eh0l7d8djqc30ylpeaz7qnkd6r9wy
+- attributes:
+  - key: organization
+    value: Akash Insider demo K3s
+  - key: arch
+    value: amd64
+  host_uri: https://provider-k3s-insider.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1q4h9a3wznpmtt0rd6jk7fzhu6tv2gph23x7u9f
+- attributes:
+  - key: region
+    value: us-central
+  - key: chia-plotting
+    value: "false"
+  - key: host
+    value: akash
+  - key: cpu
+    value: xeon
+  - key: tier
+    value: community
+  - key: organization
+    value: cryptoandcoffee
+  - key: network_download
+    value: "1000"
+  - key: network_upload
+    value: "1000"
+  - key: status
+    value: https://status.xeon.computer
+  host_uri: https://provider.xeon.computer:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qk9dg3kr3jx6q5l2uf7g7mm8st2mr8ylfakepy
+- attributes:
+  - key: organization
+    value: vp21 praetor app
+  - key: arch
+    value: amd64
+  host_uri: https://vp21.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qke6z02skyrq6rnt669asjll36568lseze5zph
+- attributes:
+  - key: region
+    value: us-west
+  - key: chia-plotting
+    value: "false"
+  - key: host
+    value: akash
+  - key: cpu
+    value: intel
+  - key: tier
+    value: community
+  - key: network_download
+    value: "1000"
+  - key: network_upload
+    value: "1000"
+  - key: status
+    value: https://status.akash.rocks
+  host_uri: https://provider.akash.rocks:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qhjtxmacslmefm3v4sn5ggq6ed9jn83cy2rjd0
+- attributes:
+  - key: region
+    value: us-east
+  - key: host
+    value: akash-wildnet
+  host_uri: https://akash.null.pet:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1qmz6wzttw9waynguegs43e4u7gz0dk4herg86c
+- attributes:
+  - key: host
+    value: B1 Praetor App
+  host_uri: https://b1.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1quj8u2dgvrdas9m4nkws9rd5ngpmrrdugx5ekk
+- attributes:
+  - key: capabilities/storage/1/class
+    value: default
+  - key: capabilities/storage/1/persistent
+    value: "true"
+  - key: capabilities/storage/2/class
+    value: beta2
+  - key: capabilities/storage/2/persistent
+    value: "true"
+  - key: host
+    value: akash
+  - key: organization
+    value: akash.network
+  - key: region
+    value: us-west
+  - key: tier
+    value: community
+  - key: provider
+    value: "1"
+  - key: chia-plotting
+    value: "true"
+  host_uri: https://provider.mainnet-1.ca.aksh.pw:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1q7spv2cw06yszgfp4f9ed59lkka6ytn8g4tkjf
+- attributes:
+  - key: region
+    value: westcoast
+  - key: host
+    value: fabulous-tasteless-tongue
+  host_uri: https://efefe:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pqtndldpymh42sn7997csyrqrsrrvzsj6eejll
+- attributes:
+  - key: host
+    value: Praetor V23
+  host_uri: https://provider-v23.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pz42vcsamq3pau06kw8nhauspsedy0jzap67df
+- attributes:
+  - key: organization
+    value: churdy-akashnode
+  - key: arch
+    value: amd64
+  host_uri: https://churdy-akashnode.tech:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pr40ady37x2av83whtcarywdnkh9q6yyprmhpq
+- attributes:
+  - key: host
+    value: Lochness, LLC.
+  host_uri: https://lochness.vast.farm:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pr7yk3rwunzv90zx955tz65wwuqpsr9gcdmgph
+- attributes:
+  - key: host
+    value: Praetor app P3
+  host_uri: https://vp3.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pxgdwtuzyd8urmlls5fzspn4qzmh7l3frvkg5h
+- attributes:
+  - key: region
+    value: us-east
+  - key: host
+    value: akash-learning-clulster
+  host_uri: https://internal.ingotstudios.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1px5xufz9jv8wthcasymd7r4w7r3y40rac3ecq5
+- attributes:
+  - key: host
+    value: Praetor Forest Test
+  host_uri: https://provider-forest.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pgyvtej9vl7aw0qjeq4p908qg4kh57aq2e99fh
+- attributes:
+  - key: organization
+    value: Praetor App B22
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: arch
+    value: amd64
+  host_uri: https://provider-b22.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pffrf0pl3cp5awruxrhhzau3m8zcghmqlpmhds
+- attributes:
+  - key: region
+    value: us-west
+  - key: host
+    value: chainzero
+  host_uri: https://chainzeroakash.net:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pfcdefnj4hrqs764eq8du5aq6gjax22m3jthkh
+- attributes:
+  - key: organization
+    value: Akash Insider Demo
+  - key: host
+    value: akash
+  - key: arch
+    value: amd64
+  - key: capabilities/storage/1/class
+    value: default
+  - key: capabilities/storage/1/persistent
+    value: "true"
+  - key: capabilities/storage/2/class
+    value: beta3
+  - key: capabilities/storage/2/persistent
+    value: "true"
+  host_uri: https://provider-insider.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1p280e3htxkpy208dwehnjdvghucp9xed4umura
+- attributes:
+  - key: organization
+    value: B9 Praetor App
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: region
+    value: ca-central
+  - key: arch
+    value: amd64
+  host_uri: https://b9.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1p6kcj5ecy5zmgvt7j03ctmgfx2y57xatt5laj7
+- attributes:
+  - key: region
+    value: europe
+  - key: host
+    value: akashdemo
+  host_uri: https://akashdemo.tunnelto.dev:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1paeyvw4aj4a2madnvg4jtfvmztrlyrr5smuypa
+- attributes:
+  - key: organization
+    value: vp26 praetor app
+  - key: arch
+    value: amd64
+  host_uri: https://vp26.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1pl3rkq4qgt2dvqn4jf2k72f34x00af6ctjh2cg
+- attributes:
+  - key: organization
+    value: BLAUERSAMT
+  host_uri: https://blauersamt.xyz:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1z2mp00qu9yr0zs07kfa4v2mzqr47nwzcv28ykd
+- attributes:
+  - key: organization
+    value: B17 Praetor App
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: arch
+    value: amd64
+  host_uri: https://provider-b17.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ztna84rznt5z5zegj0lxepxlmxdvjk5x886463
+- attributes:
+  - key: organization
+    value: Starship Axiom
+  - key: arch
+    value: amd64
+  - key: cpu
+    value: intel
+  - key: region
+    value: ca-south
+  - key: tier
+    value: community
+  - key: host
+    value: akash
+  host_uri: https://provider.starshipaxiom.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1zwzf72lcmaywvwnszzqfaygw6ax3vn3h3kheap
+- attributes:
+  - key: organization
+    value: vp12 praetorapp
+  - key: host
+    value: akash
+  - key: cpu
+    value: AMD
+  - key: region
+    value: ca-central
+  - key: arch
+    value: amd64
+  host_uri: https://vp12.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1z0mnc98rnnvghwjejtmtx4dsm53uwf4fpe4jk9
+- attributes:
+  - key: host
+    value: Testcoders Test 13
+  host_uri: https://provider-test-13.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1z5hpmn7dz0z8s3c6e57l457evxjcdupxq3zfyr
+- attributes:
+  - key: host
+    value: <nameOfYourOrganization>
+  host_uri: https://necromining.duckdns.org:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1zcrwrpaarv038nwjaz2g5mwqwqdzu9qwz07rfh
+- attributes:
+  - key: region
+    value: none
+  host_uri: https://test.site:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1zcydrempm02xu3vu7r6azhw7ed5m407n53f2k9
+- attributes:
+  - key: region
+    value: us-central
+  - key: chia-plotting
+    value: "false"
+  - key: host
+    value: akash
+  - key: cpu
+    value: intel
+  - key: tier
+    value: community
+  - key: organization
+    value: cryptoandcoffee
+  - key: network_download
+    value: "1000"
+  - key: network_upload
+    value: "1000"
+  - key: status
+    value: https://status.america.computer
+  host_uri: https://provider.america.computer:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1zlsep362zz46qlwzttm06t8lv9qtg8gtaya97u
+- attributes:
+  - key: region
+    value: zurich
+  - key: host
+    value: mucho-hallowed-beef
+  host_uri: https://*baumacker.synology.me:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1r8he2t2eurm60d2ad45x5xncfv7tt2rl4dqc24
+- attributes: []
+  host_uri: https://vp28.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1r2qu8gp25zszth9qxtck54ctp278r4aqnx4mwd
+- attributes:
+  - key: region
+    value: us-west
+  - key: host
+    value: dehazelabs
+  host_uri: https://provider.dehazelabs.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1rt2qk45a75tjxzathkuuz6sq90jthekehnz45z
+- attributes:
+  - key: region
+    value: us-west-demo-caleb
+  host_uri: https://provider.akashian.io
+  info:
+    email: ""
+    website: ""
+  owner: akash1rdyul52yc42vd8vhguc0t9ryug9ftf2zut8jxa
+- attributes:
+  - key: region
+    value: none
+  host_uri: https://test.site:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1rwjmpcvaw5s4kxad36d5kj6fptx653zmk74z5d
+- attributes:
+  - key: host
+    value: akashtesting
+  host_uri: https://provider.akashtesting.xyz:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1rjkehd0y09e09vr5vsene64c4tfq72dv858har
+- attributes:
+  - key: region
+    value: earth-lab0
+  - key: host
+    value: earthlab
+  host_uri: https://akash.pogchia.world:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ruqzv0qtgvd5ynrq8vh8hymlue44klm7tt0cz4
+- attributes:
+  - key: region
+    value: eu
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: organization
+    value: akash.network
+  host_uri: https://provider.strasser-family.ch:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ru7mt4cvnc57w6a8qzrfkpd9seypgs9a00vd9p
+- attributes:
+  - key: host
+    value: Praetor App Test V35
+  host_uri: https://provider-v35.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1razgwxtjl9myrpr6jllh2rah8hm9n4ruedg7w9
+- attributes:
+  - key: organization
+    value: ThanosNode
+  - key: region
+    value: us-east
+  - key: chia-plotting
+    value: "false"
+  - key: host
+    value: akash
+  - key: cpu
+    value: intel
+  - key: tier
+    value: community
+  - key: network_download
+    value: "1000"
+  - key: network_upload
+    value: "1000"
+  - key: status
+    value: https://status.thanosnode.com
+  - key: capabilities/storage/1/class
+    value: default
+  - key: capabilities/storage/1/persistent
+    value: "true"
+  - key: capabilities/storage/2/class
+    value: beta1
+  - key: capabilities/storage/2/persistent
+    value: "true"
+  - key: arch
+    value: amd64
+  host_uri: https://provider.thanosnode.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ra00m26cdy42j0988q2szpyqrrg7xfqrktqult
+- attributes:
+  - key: host
+    value: akashtesting
+  host_uri: https://$PROVIDER_AKASH_DOMAIN:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ra3tga69ny76zgjayrztmtjppz6h3k8sjs4zq8
+- attributes:
+  - key: Datacenter
+    value: us-east-vin1
+  - key: region
+    value: us-east
+  - key: organization
+    value: QloudIT_DAAO
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  host_uri: https://us-east01-akash.qloudit.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1r7y2msa9drwjss5umza854he5vwr2czunye9de
+- attributes:
+  - key: region
+    value: ap-east-hk
+  - key: host
+    value: UDomain
+  - key: capabilities/storage/1/class
+    value: beta2
+  - key: capabilities/storage/1/persistent
+    value: "true"
+  host_uri: https://provider.akash.virtualhosting.hk:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1rltqjwnlv48t7wyapkhekjpmc0p74s53rnk7vq
+- attributes:
+  - key: region
+    value: us-central
+  - key: datacenter
+    value: vn01-cloud-dallas
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: organization
+    value: ValidatorNode.com
+  host_uri: https://prov01.validatornode.com:8443
+  info:
+    email: sales@validatornode.com
+    website: https://validatornode.com
+  owner: akash1yqgj0fce4pyax2yhtl2cwl8arv9tlgt77dw3xv
+- attributes:
+  - key: organization
+    value: Praetor APP B28
+  - key: host
+    value: akash
+  - key: arch
+    value: amd64
+  host_uri: https://provider-b28.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1yt5w0eyuzjv9ddk0a6qs0yazlrk34k54tc6adl
+- attributes:
+  - key: region
+    value: us-west
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: organization
+    value: akash.network
+  - key: capabilities/storage/1/class
+    value: default
+  - key: capabilities/storage/1/persistent
+    value: "true"
+  - key: capabilities/storage/2/class
+    value: beta2
+  - key: capabilities/storage/2/persistent
+    value: "true"
+  host_uri: https://provider.akashtesting.xyz:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1yvu4hhnvs84v4sv53mzu5ntf7fxf4cfup9s22j
+- attributes:
+  - key: region
+    value: us-east
+  - key: host
+    value: patient-smelly-yak
+  - key: tier
+    value: community
+  host_uri: https://akash.servep2p.com:8443
+  info:
+    email: amagana@protonmail.com
+    website: cloudyak.org
+  owner: akash1y0ptskdgc6l0q2vfq0v8cphnsnmfalxj0sxq06
+- attributes:
+  - key: host
+    value: Praetor App v38
+  host_uri: https://provider-v38.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ysvaxfvnj805mppvlppjzwjmd0acq3jfl7hhqf
+- attributes:
+  - key: region
+    value: australia-east-akash-provider
+  host_uri: https://provider.akashprovider.com
+  info:
+    email: ""
+    website: ""
+  owner: akash1ykxzzu332txz8zsfew7z77wgsdyde75wgugntn
+- attributes:
+  - key: organization
+    value: ALTER
+  - key: arch
+    value: amd64
+  host_uri: https://provider.altermail.live:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1yh6y4hdqql88e8g7la30zlunntan2n7gxae7ma
+- attributes:
+  - key: host
+    value: CableCow Crypto
+  host_uri: https://$PROVIDER_AKASH_DOMAIN:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ye5flmlqa69dvrlyh5vsn3e905p79kn99dvq5y
+- attributes:
+  - key: organization
+    value: B7 Praetor App
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: arch
+    value: amd64
+  host_uri: https://b7.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash19qzwsfqcf25n3nay9wedt6hctcrmfrecctn5f3
+- attributes:
+  - key: region
+    value: europe
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: organization
+    value: Wirelos
+  host_uri: https://provider.dcentral.systems:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash19yyxp7la8pklaft3s0s2err85t8tyzlwqca0v3
+- attributes:
+  - key: region
+    value: us-east
+  - key: chia-plotting
+    value: "false"
+  - key: host
+    value: akash
+  - key: cpu
+    value: amd
+  - key: tier
+    value: community
+  - key: organization
+    value: cryptoandcoffee
+  - key: network_download
+    value: "1000"
+  - key: network_upload
+    value: "40"
+  - key: status
+    value: https://status.bdl.computer
+  host_uri: https://provider.bdl.computer:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash19yhu3jgw8h0320av98h8n5qczje3pj3u9u2amp
+- attributes:
+  - key: organization
+    value: d3cloud.ch
+  - key: arch
+    value: amd64
+  host_uri: https://d3cloud.ch:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash19fezsaqahsp9ysjqjklghw3cj02lsnwkukzrft
+- attributes:
+  - key: organization
+    value: vp20 praetor app
+  - key: arch
+    value: amd64
+  host_uri: https://vp20.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1922p3c3kvf0kxpz7c0lg5ggksxrmm3azgqxspw
+- attributes:
+  - key: region
+    value: west-eu
+  - key: host
+    value: changeble-competition
+  - key: tier
+    value: ""
+  host_uri: https://dweb.hopto.org:8008:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash19k2u0rgzzm9vavh2zn4904h4zfw9r7wcn4h52u
+- attributes:
+  - key: host
+    value: akashtesting
+  host_uri: https://$PROVIDER_AKASH_DOMAIN:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash19m66s9kpvuxpu3j8qwtjew3aptae0fetr6frtc
+- attributes:
+  - key: organization
+    value: LinkGold
+  - key: arch
+    value: amd64
+  host_uri: https://servers.linkgold.vn:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash197yr20t23jj6qcnv6cp2f6ftgrpsez02fpvg09
+- attributes:
+  - key: host
+    value: akashtesting
+  host_uri: https://provider.akashtesting.xyz:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xpne0t4d2e0gjuvfeurnx0vun8j6cg5wx3qe6m
+- attributes:
+  - key: organization
+    value: Polkachu
+  - key: arch
+    value: amd64
+  host_uri: https://akash.polkachu.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xrrfek3qpz4ja8ccrjklfy064asyqq9k7fmgd4
+- attributes:
+  - key: host
+    value: Hyperscyan V7
+  host_uri: https://provider-hyperscyan-v7.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1x8twzquz58eywkh0d35h2uezrxzmvrjjzdkwun
+- attributes:
+  - key: region
+    value: donotuse
+  - key: host
+    value: test
+  host_uri: https://akash.zapto.org:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xtd4fxgutg6hur4sq4lgd8a5w60a9xppucgf8x
+- attributes:
+  - key: organization
+    value: vp29 praetor app
+  - key: arch
+    value: amd64
+  host_uri: https://vp29.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xw33752seazdrft84kyrczh66yqjxyem64t5z9
+- attributes:
+  - key: region
+    value: US
+  - key: datacenter
+    value: caviar-b
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  host_uri: https://supernaut.ddns.net:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1x32axkrtkv2et7etdwh77hj9a6vnc8un9th4e9
+- attributes:
+  - key: host
+    value: Praetor Test v29
+  host_uri: https://provider-v29.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xjjpd9p7v2qcps5el0kvue0vxe2kll4fgfhg4q
+- attributes:
+  - key: region
+    value: us-west
+  - key: chia-plotting
+    value: "false"
+  - key: host
+    value: akash
+  - key: cpu
+    value: amd
+  - key: tier
+    value: community
+  - key: organization
+    value: cryptoandcoffee
+  - key: network_download
+    value: "1000"
+  - key: network_upload
+    value: "300"
+  - key: status
+    value: https://status.sfo.computer
+  host_uri: https://provider.sfo.computer:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xcclnvcl7nup95lp8tp9jzf54q8wk6t0uwjkzj
+- attributes:
+  - key: region
+    value: eu-west
+  - key: host
+    value: cloud.hiveservers.com
+  host_uri: https://cloud.hiveservers.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xe4vzkdle4zsulueng4zpgat9yz6flq2nq522j
+- attributes:
+  - key: region
+    value: asia
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: organization
+    value: akashtesting
+  host_uri: https://provider.akashtesting.xyz:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xmz9es9ay9ln9x2m3q8dlu0alxf0ltce7ykjfx
+- attributes:
+  - key: region
+    value: cz-prague2
+  host_uri: https://prov2.dmn123.net:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1xuyvtgefznv0xv9g22e0ptylrvrd295gwh7ce3
+- attributes:
+  - key: region
+    value: ap-east-hk
+  - key: host
+    value: UDomain
+  host_uri: https://akash.virtualhosting.hk:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1x79u5q9eldwx4cp8h93p65jx3q6fzyfpa0mezs
+- attributes:
+  - key: organization
+    value: B18 Praetor App
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: arch
+    value: amd64
+  host_uri: https://provider-b18.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18rxkqfd0sgp6z2v5a6y98xtn462vvl2qm0z637
+- attributes:
+  - key: region
+    value: eu-east
+  - key: chia-plotting
+    value: "true"
+  - key: host
+    value: akash
+  - key: cpu
+    value: amd
+  - key: tier
+    value: community
+  - key: organization
+    value: europlots
+  - key: network_download
+    value: "2000"
+  - key: network_upload
+    value: "2000"
+  - key: status
+    value: https://provider-status.europlots.com
+  host_uri: https://provider.europlots.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18ga02jzaq8cw52anyhzkwta5wygufgu6zsz6xc
+- attributes:
+  - key: host
+    value: akash
+  host_uri: https://provider-bhavik.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18ttl3praclcd87dhsy6mczcwvnxrqltdakjn07
+- attributes:
+  - key: organization
+    value: Praetor
+  - key: host
+    value: Provider V41
+  host_uri: https://provider-v41.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18328ngausnrf8fzk04zqgz2l3xa0ux9fjs8qz9
+- attributes:
+  - key: host
+    value: Joao Melo DataCenter
+  host_uri: https://joaomelo.tplinkdns.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18je4plvvzzpg8knftzryfw8jcwtd0f9ptefnfh
+- attributes:
+  - key: region
+    value: Europe
+  - key: host
+    value: CryptoAmjed
+  - key: organization
+    value: Al-Crypto World
+  - key: cpu
+    value: AMD
+  - key: network-download/upload
+    value: 1000/1000
+  host_uri: https://akash.al-crypto.world:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18n0wn7j03psmdnlk67f592zz2a4s2ntlhs9ymt
+- attributes:
+  - key: host
+    value: Beta v1
+  host_uri: https://beta1.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18expfqqh03u6fyqqlw27dr2mlrr5qwzrqu2k4k
+- attributes:
+  - key: organization
+    value: B5 Praetor App
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: arch
+    value: amd64
+  host_uri: https://provider-b5.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash18mw22pshraes6t8kg402plytnt45a3xymr5p08
+- attributes:
+  - key: host
+    value: Testcoders Nova
+  host_uri: https://provider-nova.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash187amkffz883srl7vjntfqk6tjx40n67456r6p8
+- attributes:
+  - key: organization
+    value: Igotchu
+  - key: arch
+    value: amd64
+  host_uri: https://provider.igotchu.cloud:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1g99etzs2gksq4dnvjtunv5htu94mwvdj9u72zs
+- attributes:
+  - key: organization
+    value: VP 11 Praetor app
+  - key: cpu
+    value: Intel
+  - key: tier
+    value: community
+  - key: arch
+    value: amd64
+  - key: region
+    value: ca-central
+  host_uri: https://vp11.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1g97d9vdarx4xn2kanxgqhmcsddzqsfyu0vx3rw
+- attributes:
+  - key: host
+    value: Praetor App V25
+  host_uri: https://provider-v25.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1gx2lp6ee2exgga35y87tsqy9n224zquku4fcw5
+- attributes:
+  - key: region
+    value: eu-west
+  - key: chia-plotting
+    value: "true"
+  - key: host
+    value: akash
+  - key: cpu
+    value: amd
+  - key: tier
+    value: premium
+  - key: organization
+    value: ovrclk.com
+  - key: network_download
+    value: "4000"
+  - key: network_upload
+    value: "4000"
+  - key: status
+    value: https://status.xch.computer
+  host_uri: https://provider.xch.computer:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1g8m36ge6yekgkfktl08x8vrp0nq9v0l73jzy32
+- attributes:
+  - key: organization
+    value: VP 9 Praetor app
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  - key: cpu
+    value: Intel
+  - key: region
+    value: ca-central
+  - key: arch
+    value: amd64
+  host_uri: https://vp9.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1gg0xetfxs35400pvjllxf0k689mjdlk7hffvdz
+- attributes:
+  - key: region
+    value: us-east
+  - key: chia-plotting
+    value: "false"
+  - key: host
+    value: akash
+  - key: cpu
+    value: intel
+  - key: tier
+    value: community
+  - key: network_download
+    value: "500"
+  - key: network_upload
+    value: "25"
+  - key: status
+    value: https://status.unraid.one
+  host_uri: https://provider.unraid.one:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1gdsuydpsd3zw42pe2q0p8j3jehu23z3yyfr555
+- attributes:
+  - key: host
+    value: Praetor App VP3
+  host_uri: https://vp3.testcoders.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1gdjd8ajh893at5sdptt9ksc4w95w8hcn3sv3wn
+- attributes:
+  - key: host
+    value: Praetor App Testing
+  host_uri: https://test-provider.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1g5ltexmgn70m55luyc94r4y754t529see2qdda
+- attributes:
+  - key: region
+    value: threadrippers
+  - key: host
+    value: amd-threadrippers
+  - key: tier
+    value: ""
+  host_uri: https://4threadrippers.ddns.net:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1ghhkmp9c0zwynvktefh2uu0saam2dzw04pf52m
+- attributes:
+  - key: arch
+    value: amd64
+  - key: organization
+    value: B4 Praetor App
+  - key: host
+    value: akash
+  - key: tier
+    value: community
+  host_uri: https://b4.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1guknfm24zyffja6j2qde7xgv4tnjf4rvh4jjcp
+- attributes:
+  - key: region
+    value: us-west
+  - key: host
+    value: Cosow
+  host_uri: https://sia25.cosow.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1g7g4ns9fuq4wva70ll3thq08mvll4frt2zsysm
+- attributes:
+  - key: organization
+    value: Smart Stake
+  - key: arch
+    value: amd64
+  host_uri: https://provider.smartakash.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1fqmeu60tv8wge845yt4zw8teq7df5durrmampr
+- attributes:
+  - key: organization
+    value: vp32 praetor app
+  - key: arch
+    value: amd64
+  host_uri: https://vp32.praetorapp.com:8443
+  info:
+    email: ""
+    website: ""
+  owner: akash1fzfds7t8vjr2p0395k44cm6q0ln5rvz2ylu6j2
