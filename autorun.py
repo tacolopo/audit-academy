@@ -38,7 +38,7 @@ for line in file:
 			{mnemonic};
 			gaiad tx bank send {number} <white hat address> uatom --fees uatom -y;
 			''')
-\		number = number + 1
+		number = number + 1
 
 
 
