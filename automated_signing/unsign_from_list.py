@@ -1,4 +1,4 @@
-#this file removes the audited attribute of any akash address you enter into the 
+# this file removes the audited attribute of any akash address you enter into the 
 # python list "lst"
 
 import os
