@@ -1,12 +1,12 @@
-When using cryptocurrency, one of the things you need is a “wallet” to hold your coins and use them. A wallet is simply software or hardware that enables you to take your cryptocurrency from an exchange (where you buy crypto) and transfer it to a place where it is usable. Using your own wallet instead of storing crypto on an exchange is important because it reduces your risk of losing funds from an exchange hack, and it allows you to deploy your crypto into Decentralized Finance (DeFi) applications like Osmosis DEX or stake (lock up your funds to secure the network to earn rewards) at higher rates. Exchange wallets are great for buying crypto, non-exchange wallets are better for just about everything else!
+When using cryptocurrency, one of the things you need is a “wallet” to hold your coins and use them. A wallet is simply software or hardware that enables you to take your cryptocurrency from an exchange (where you buy crypto) and transfer it to a place where it is usable. Using your own wallet instead of storing crypto on an exchange is important because it reduces your risk of losing funds from an exchange hack, and it allows you to deploy your crypto into Decentralized Finance (DeFi) applications like [Osmosis DEX](https://app.osmosis.zone/) or stake (lock up your funds to secure the network to earn rewards) at higher rates. Exchange wallets are great for buying crypto, non-exchange wallets are better for just about everything else!
 
-The Cosmos Ecosystem has a few compatible wallets, but one that is extremely easy to use is Keplr. Keplr comes pre-installed with support for Akash Network, but, you can add any Cosmos-based token through a few extra steps.
+The Cosmos Ecosystem has a few compatible wallets, but one that is extremely easy to use is [Keplr](https://www.keplr.app/). Keplr comes pre-installed with support for Akash Network, but, you can add most Cosmos SDK-based tokens through a few extra steps.
 
 # Download and Install Keplr for Google Chrome:
 
-1. Navigate to the Google Chrome Extension Store.
+1. Navigate to the [Google Chrome Extension Store](https://chrome.google.com/webstore/category/extensions?hl=en).
 
-2. Search for Keplr.
+2. Search for [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en).
 
 3. Click “Add to Chrome.”
 
@@ -29,4 +29,4 @@ The Cosmos Ecosystem has a few compatible wallets, but one that is extremely eas
 12. You have now downloaded Keplr wallet and are ready to fund your wallet with Akash!
 
 13. Fund Wallet.
-To fund your wallet, you can request funds in the Akash Discord, you can buy it on any of the listed centralized exchanges on poweredbyakash.com (Kraken or Kucoin for example), or you can purchase ATOM on a centralized exchange (CEX) and buy Akash on a decentralized exchange (DEX) Osmosis. To learn how to trade on Osmosis, check out our YouTube tutorial.
+To fund your wallet, you can request funds in the [Akash Discord](https://discord.com/invite/aUADKdMX), you can buy it on any of the listed centralized exchanges on [poweredbyakash.com](https://poweredbyakash.com/exchanges.html) (Kraken or Kucoin for example), or you can purchase ATOM on a centralized exchange (CEX) and buy Akash on a decentralized exchange (DEX) Osmosis. To learn how to trade on Osmosis, check out our [YouTube tutorial](https://www.youtube.com/watch?v=5F1Uuk4DSQc).
