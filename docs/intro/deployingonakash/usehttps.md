@@ -2,7 +2,7 @@ Even with your custom domain name, you'll notice that there is no padlock in the
 
 Currently Akash does not have native support for port 443/8443, which are the web server ports for encrypted communication between the server and client. Effectively, we won't be able to enter 443 in our manifest, but will have to proxy the connection with an entity that supports SSL certificates and encrypted server communications. For this walkthrough, we'll use Cloudflare as our proxy.
 
-# Secure Your Akash Site With https
+# Secure Your Akash Site With HTTPS
 
 1. Navigate to cloudflare.com and make an account
 
