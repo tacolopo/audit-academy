@@ -27,6 +27,10 @@ for line in file:
     
 #creates the lease, sends the manifest, and exports the lease-status data
 os.system(f'''
+	AKASH_NET="https://raw.githubusercontent.com/ovrclk/net/master/mainnet";
+ 	AKASH_VERSION="$(curl -s "$AKASH_NET/version.txt")";
+ 	export AKASH_CHAIN_ID="$(curl -s "$AKASH_NET/chain-id.txt")";
+	export AKASH_NODE="$(curl -s "$AKASH_NET/rpc-nodes.txt" | shuf -n 1)";
 	akash tx market lease create --dseq {dseq} --provider {provider} --from account_name --fees 30000uakt --gas auto -y;
 	akash provider send-manifest deploy.yaml --dseq {dseq} --provider {provider} --from bronze;
 	akash provider lease-status --dseq {dseq} --from bronze --provider {provider} >> info.txt;
@@ -34,5 +38,5 @@ os.system(f'''
 
 #displays the URI in the terminal
 for goose in info:
-	if 'ca.aksh.pw' in goose:
-		print(goose)
+	if 'ingress' in goose:
+		print(goose.strip().replace('"', ''))
