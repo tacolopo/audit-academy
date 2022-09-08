@@ -1,0 +1,1 @@
+This is a way to deploy your manifest to akash with one command. You can watch the program in action [here](https://twitter.com/AuditsMoultrie/status/1567599117970411523?s=20&t=fMakaCOaXX_a9IjqLDhzdA).
