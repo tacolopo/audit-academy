@@ -1,6 +1,6 @@
 Congrats on dockerizing your first application! Now that we have the prepackaged code bundle ready to go, it's time to shore up the Akash side of things. Before we actually get to deploying though, it's important to understand what the deploy.yaml file does, as it's the key part of the deployment process.
 
-In Docker, the compose file allows you to use yaml (easily readable language) to define the applications specifications. Things like ports and dependencies are in this file. Akash uses something very similar to Docker's compose files called a "manifest" (same thing as deploy.yaml). The manifest is where you will put in all the specifications for how you want you application to be configured, and it dually serves as the request/query to providers. So in addition to specifying things like what image you want to run, ports, and CPU/memory, you also include how much you are willing to pay. Let's take a look at an example:
+In Docker, the [compose file](https://docs.docker.com/compose/) allows you to use [yaml](https://yaml.org/) (easily readable language) to define the applications specifications. Things like [ports](https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/) and [dependencies](https://coderslegacy.com/what-are-dependencies-in-programming/) are in this file. Akash uses something very similar to Docker's compose files called a "manifest" (same thing as deploy.yaml). The manifest is where you will put in all the specifications for how you want you application to be configured, and it dually serves as the request/query to providers. So in addition to specifying things like what image you want to run, ports, and CPU/memory, you also include how much you are willing to pay. Let's take a look at an example:
 
 # Note:
 
@@ -100,4 +100,4 @@ deployment:
       profile: web
       count: 1
  ```
-There are tons of other thing you can include in this file, and we've left out some important fields for auditors. We'll come back to this file to update our deployment once we get into more auditing specific tasks. For the meantime, understanding the basics is sufficient. If you'd like to see ready-to-use templates for a bunch of applications, the Awesome-Akash repository is a fantastic resource.
+There are tons of other thing you can include in this file, and we've left out some important fields for auditors. We'll come back to this file to update our deployment once we get into more auditing specific tasks. For the meantime, understanding the basics is sufficient. If you'd like to see ready-to-use templates for a bunch of applications, the [Awesome-Akash repository](https://github.com/ovrclk/awesome-akash) is a fantastic resource.
