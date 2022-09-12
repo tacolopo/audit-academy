@@ -1,2 +1,0 @@
-# Why become an auditor?
-

@@ -25,10 +25,9 @@
 ## Auditing
 
 * [Role of auditors](auditing/role-of-auditors.md)
-* [Why become an auditor?](auditing/why-become-an-auditor.md)
 * [Program rundown](auditing/program-rundown.md)
 * [Search for Providers](auditing/search-for-providers.md)
-* [Deploying test configurations](auditing/deploying-test-configurations.md)
+* [Deploying Test Configurations](auditing/deploying-test-configurations.md)
 * [Monitoring uptime](auditing/monitoring-uptime.md)
 * [Signing Providers](auditing/signing-providers.md)
 * [Unsigning Providers](auditing/unsigning-providers.md)
