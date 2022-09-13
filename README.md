@@ -6,7 +6,7 @@
 
 **Why Python?**
 
-You will notice going through this tutorial that everything is in Python, even though it would make much more sense to have most of it in pure bash. Additionally, the structure is centered around exporting information to external files and then parsing through that information. This is because we wanted everything to be in a single language, and in a way that allowed for the most understanding for a complete newcomer. Please optimize on your own!&#x20;
+You will notice going through this tutorial that everything is in Python, even though it would make much more sense to have most of it in pure bash. Additionally, the structure is centered around exporting information to external files and then parsing through that information. This is because we wanted everything to be in a single language, and in a way that allowed for the most understanding for a complete newcomer. These programs are designed to be the most didactic, not functional. Please optimize on your own!&#x20;
 
 **Structure**
 
